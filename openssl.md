@@ -1,4 +1,4 @@
-# openssh - working with SMIME
+# openssl - working with SMIME
 ## Signing message
 * generate selfsigned cerificate and private key for signing
  * generate keys for signing
